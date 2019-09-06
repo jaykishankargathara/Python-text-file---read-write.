@@ -1,0 +1,3 @@
+import os.path
+
+file = open("E:\Python\Folder_Created\Test.txt", "w+")
