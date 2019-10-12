@@ -1,0 +1,58 @@
+a=1
+b=10
+c=100
+d=1000
+e=10000
+if  a>b:
+    print("a is greater than b")
+if a<b:
+    print("a is less than b")
+if a==b:
+    print("a is equal to b")
+if a>c:
+    print("a is greater than c")
+if a<c:
+    print("a is less than c")
+if a==c:
+    print("a is equal to c")
+if a>d:
+    print("a is greater than d")
+if a<d:
+    print("a is less than d")
+if a==d:
+    print("a is equal to d")
+if b>a:
+    print("b is greater than a")
+if b<a:
+    print("b is less than a")
+if b==a:
+    print("b is equal to a")
+if b>c:
+    print("b is greater than c")
+if b<c:
+    print("b is less than c")
+if b==c:
+    print("b is equal to c")
+if b>d:
+    print("b is greater than d")
+if b<d:
+    print("b is less than d")
+if b==d:
+    print("b is equal to d")
+if b>e:
+    print("b is greater than e")
+if b<e:
+    print("b is less than e")
+if b==e:
+    print("b is equal to e")
+if a!=b!=c!=d!=e:
+    print("a,b,c,d and e all are not equal to each other.")
+if a==b==c==d==e:
+    print("a, b, c, d and e all are equal to each other.")
+else:
+    print("Check you code!!!")
+
+x=1
+y=2
+z=3
+if y>x and z>y: print ("z is greater than y and y is greater than x")
